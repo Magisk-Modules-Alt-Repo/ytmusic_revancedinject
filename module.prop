@@ -1,0 +1,7 @@
+id=ytmusic_revancedinject
+name=YouTube Music ReVanced
+package=com.google.android.apps.youtube.music
+version=5.38.53
+versionCode=1
+author=HuskyDG
+description=YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount
